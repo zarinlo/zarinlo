@@ -37,5 +37,9 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
- 
+- [Publish Technical Tutorials in Google Codelab Format](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd?source=rss-af2b5f761682------2)
+- [Setup a CircleCI Pipeline for a Containerized Spring Boot App Connected to MongoDB Atlas](https://faun.pub/setup-a-circleci-pipeline-for-a-containerized-spring-boot-app-93045fa060de?source=rss-af2b5f761682------2)
+- [Deck Out Your Mac Terminal: Z Shell (zsh) Made Easy](https://medium.com/@zarinlo/deck-out-your-mac-terminal-z-shell-zsh-made-easy-232f5da30ce6?source=rss-af2b5f761682------2)
+- [Deck Out Your Mac Terminal: Bash Basics](https://medium.com/@zarinlo/deck-out-your-mac-terminal-part-i-c8aeab99f561?source=rss-af2b5f761682------2)
+- [Mac Apps for the Dev at Heart](https://medium.com/@zarinlo/mac-apps-for-the-dev-at-heart-f6153d5406b8?source=rss-af2b5f761682------2)
 <!-- BLOG-POST-LIST:END -->
