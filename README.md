@@ -54,76 +54,76 @@
 <!-- Descriptive badges -->
 ### Languages
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.java.com/en/">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.javascript.com/">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1c"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3078c6"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.gnu.org/software/bash/">
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=white"/>
 </a>
 
 ### Frameworks and Runtime
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://spring.io/">
   <img src="https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6db33e"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://angular.io/">
   <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=de0031"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://nodejs.org/en/">
   <img src="https://img.shields.io/badge/Runtime_Env-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2a7e2a"/>
 </a>
 
 ### Tools
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/badge/Package_Manager-npm-informational?style=flat&logo=npm&logoColor=white&color=CB3837"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://maven.apache.org/">
   <img src="https://img.shields.io/badge/Build_Tool-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=E46625"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.jenkins.io/">
   <img src="https://img.shields.io/badge/Build_Tool-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=d53832"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://circleci.com/">
   <img src="https://img.shields.io/badge/Build_Tool-CircleCI-informational?style=flat&logo=CircleCI&logoColor=white&color=white"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://swagger.io/">
   <img src="https://img.shields.io/badge/Spec-Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2B"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.postman.com/">
   <img src="https://img.shields.io/badge/REST_Client-Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37"/>
 </a>
 
 ### Data and Infrastructure
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.mongodb.com/">
   <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=11AA52"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2397ec"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.terraform.io/">
   <img src="https://img.shields.io/badge/IAC-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=854eba"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.splunk.com/">
   <img src="https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&logoColor=white&color=66A637"/>
 </a>
 
 ### OS 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.kernel.org/">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=fecb00"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.apple.com/macos/">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=white"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.microsoft.com/en-us/windows">
   <img src="https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=05a7e7"/>
 </a>
 
