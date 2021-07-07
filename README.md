@@ -1,10 +1,8 @@
-<h3 align="center">
+<h1 align="center">
   Zarin Lokhandwala 🐳 🐠 Software Engineer
-</h3>
+</h1>
 
----
-
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zarinlo&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinlo&layout=compact&hide=html,css&langs_count=10&theme=radical"/>
 </p>
