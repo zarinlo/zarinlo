@@ -3,10 +3,15 @@
 </h1>
 
 <p align="center">
-  <img width="455em" src="https://github-readme-stats.vercel.app/api?username=zarinlo&show_icons=true&theme=radical" />
-  <img width="455em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinlo&layout=compact&hide=html,css&langs_count=10&theme=radical"/>
+  <!-- <img height="192px" src="https://github-readme-stats.vercel.app/api?username=zarinlo&show_icons=true&theme=radical" />
+  <img width="455em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinlo&layout=compact&hide=html,css&langs_count=10&theme=radical"/> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zarinlo&show_icons=true&theme=radical" height="150em"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinlo&layout=compact&hide=html,css&langs_count=10&theme=radical" height="150em"/>
+  </a>
 </p>
-
 
 ### Languages
 
