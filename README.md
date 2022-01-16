@@ -57,6 +57,9 @@
 <a href="https://www.java.com/en/">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396"/>
 </a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=336d9e"/>
+</a>
 <a href="https://www.javascript.com/">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1c"/>
 </a>
