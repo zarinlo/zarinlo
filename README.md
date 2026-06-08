@@ -1,4 +1,4 @@
-<h1 align="center">Zarin Lokhandwala</h1>
+<h1 align="center">Zarin Lokhandwala 🦆</h1>
 <p align="center"><strong>Engineer · Developer Advocate · Explorer</strong></p>
 
 <p align="center">
