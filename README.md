@@ -13,10 +13,6 @@
   <a href="https://medium.com/@zarinlo" title="Medium">
     <img src="https://cdn.simpleicons.org/medium/000000" height="32" alt="Medium"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zarinlo" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub"/>
-  </a>
 </p>
 
 ### Core Architecture
