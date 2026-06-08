@@ -2,17 +2,9 @@
 <p align="center"><strong>Engineer · Developer Advocate · Explorer</strong></p>
 
 <p align="center">
-  <a href="https://zarin.io" title="Website">
-    <img src="https://www.google.com/s2/favicons?domain=zarin.io&sz=64" height="32" width="32" alt="Website"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zarinlokhandwala" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@zarinlo" title="Medium">
-    <img src="https://cdn.simpleicons.org/medium/000000" height="32" alt="Medium"/>
-  </a>
+  <a href="https://zarin.io">Website</a> ·
+  <a href="https://www.linkedin.com/in/zarinlokhandwala">LinkedIn</a> ·
+  <a href="https://medium.com/@zarinlo">Medium</a>
 </p>
 
 ### Core Architecture
